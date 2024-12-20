@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yewantraj.yewantraj" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nipsonkc.nipsonkc" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nipson+KC!;" />
@@ -21,7 +21,7 @@
   <a href="mailto:nipsan007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/yewantraj-karki-36879a17b/" target="_blank">
+  <a href="https://www.linkedin.com/in/nipsonkc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="www.nipsonkc.com.np" target="_blank">
