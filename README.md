@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🧑‍🎓 I’m currently studying **Frontend Web Design and Development** at George Brwon College
+ 🧑‍🎓 I’m currently studying **MS Information Science** at University of New Haven
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
