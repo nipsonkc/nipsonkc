@@ -1,15 +1,21 @@
-# 🚀 Welcome to My GitHub Profile!
-Hi there! I'm **[Your Name]**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
+ # 🚀 Welcome to My GitHub Profile!
+Hi there! I'm **Nipson K C**,an adaptive and innovative Developer and Project Manager with expertise across Android, web, and AI/ML development. With a passion for evolving alongside today’s fast-moving tech landscape, I thrive on exploring new ideas, creating impactful solutions, and pushing the boundaries of innovation.
 
 ## 🛠️ Tech Stack
 
 ### 🔷 Programming & Core Concepts
 <p align="left">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
+
 
 ### ☁️ Cloud & DevOps
 <p align="left">
