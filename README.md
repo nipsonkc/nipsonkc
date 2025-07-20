@@ -1,5 +1,5 @@
  # 🚀 Welcome to My GitHub Profile!
-Hi there! I'm **Nipson K C**,an adaptive and innovative Developer and Project Manager with expertise across Android, web, and AI/ML development. With a passion for evolving alongside today’s fast-moving tech landscape, I thrive on exploring new ideas, creating impactful solutions, and pushing the boundaries of innovation.
+Hi there! I'm **Nipson K C**, an adaptive and innovative Developer and Project Manager with expertise across Android, web, and AI/ML development. With a passion for evolving alongside today’s fast-moving tech landscape, I thrive on exploring new ideas, creating impactful solutions, and pushing the boundaries of innovation.
 
 ## 🛠️ Tech Stack
 
