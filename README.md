@@ -1,76 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nipson K C | GitHub Space Theme</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: white;
-      background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-      overflow: hidden;
-    }
-    .stars {
-      width: 2px;
-      height: 2px;
-      background: white;
-      box-shadow: 0 0 1px #fff;
-      position: absolute;
-      animation: twinkle 1s infinite alternate;
-    }
-    @keyframes twinkle {
-      from { opacity: 0.2; }
-      to { opacity: 1; }
-    }
-    .container {
-      text-align: center;
-      padding: 100px 20px;
-    }
-    h1 {
-      font-size: 3em;
-      margin-bottom: 10px;
-    }
-    p {
-      font-size: 1.2em;
-      max-width: 700px;
-      margin: 0 auto 40px;
-    }
-    .badges img {
-      margin: 5px;
-    }
-  </style>
-</head>
-<body>
-  <div id="stars-container"></div>
-  <div class="container">
-    <h1>🚀 Nipson K C</h1>
-    <p>An adaptive, innovative Developer & Project Manager thriving in the ever-evolving world of technology. Always learning, building, and pushing boundaries in Android, web, AI/ML, and cloud solutions.</p>
-    <div class="badges">
-      <img src="https://img.shields.io/badge/Java-00008B?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-00008B?style=flat-square&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-00008B?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-00008B?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-00008B?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/ASP.NET_Core-00008B?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-00008B?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-00008B?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-00008B?style=flat-square&logo=django&logoColor=white" />
-    </div>
-  </div>
+# 🚀 Welcome to My GitHub Profile!
+Hi there! I'm **[Your Name]**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
-  <script>
-    const numStars = 200;
-    const container = document.getElementById('stars-container');
-    for (let i = 0; i < numStars; i++) {
-      let star = document.createElement('div');
-      star.className = 'stars';
-      star.style.top = Math.random() * window.innerHeight + 'px';
-      star.style.left = Math.random() * window.innerWidth + 'px';
-      container.appendChild(star);
-    }
-  </script>
-</body>
-</html>
+## 🛠️ Tech Stack
+
+### 🔷 Programming & Core Concepts
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+### 🏛️ Large Language Models (LLMs)
+<p align="left">
+<img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge" />
+</p>
